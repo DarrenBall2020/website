@@ -1,6 +1,2 @@
-# my-website
-
-Updates made on github before rebase
-Removing the conflict
-
-Changing a tag
+# MyNewBranch
+This is the first change in MyNewBranch
